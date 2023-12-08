@@ -1,0 +1,52 @@
+E:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\bin\Debug\ProjectVlad.exe.config
+E:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\bin\Debug\ProjectVlad.exe
+E:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\bin\Debug\ProjectVlad.pdb
+E:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.AssemblyReference.cache
+E:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.SuggestedBindingRedirects.cache
+E:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Form1.resources
+E:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Properties.Resources.resources
+E:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.GenerateResource.cache
+E:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.CoreCompileInputs.cache
+E:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.exe
+E:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.pdb
+E:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Captcha.resources
+E:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Form2.resources
+F:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\bin\Debug\ProjectVlad.exe.config
+F:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\bin\Debug\ProjectVlad.exe
+F:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\bin\Debug\ProjectVlad.pdb
+F:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.AssemblyReference.cache
+F:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.SuggestedBindingRedirects.cache
+F:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Form1.resources
+F:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Form2.resources
+F:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Captcha.resources
+F:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Properties.Resources.resources
+F:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.GenerateResource.cache
+F:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.CoreCompileInputs.cache
+F:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.exe
+F:\4 курс, шляпкина\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.pdb
+E:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.AssemblyReference.cache
+E:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.SuggestedBindingRedirects.cache
+E:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Form1.resources
+E:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Form2.resources
+E:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Captcha.resources
+E:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Properties.Resources.resources
+E:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.GenerateResource.cache
+E:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.CoreCompileInputs.cache
+E:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.exe
+E:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.pdb
+E:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\bin\Debug\ProjectVlad.exe.config
+E:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\bin\Debug\ProjectVlad.exe
+E:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\bin\Debug\ProjectVlad.pdb
+F:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.AssemblyReference.cache
+F:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.SuggestedBindingRedirects.cache
+F:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Form1.resources
+F:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Form2.resources
+F:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Captcha.resources
+F:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.GenerateResource.cache
+F:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.exe
+F:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.pdb
+F:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\bin\Debug\ProjectVlad.exe.config
+F:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\bin\Debug\ProjectVlad.exe
+F:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\bin\Debug\ProjectVlad.pdb
+F:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.Properties.Resources.resources
+F:\4 курс, Шляпкин А.А\ProjectVlad\ProjectVlad\ProjectVlad\obj\Debug\ProjectVlad.csproj.CoreCompileInputs.cache
